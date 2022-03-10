@@ -1,4 +1,4 @@
-# 1:Front-running-bot
+# Front-running-bot
 # 需求概述：
 ```
 一种应用于BSC、ether的链上`全自动夹子机器人`/`抢跑机器人`（Front-running-bot）
